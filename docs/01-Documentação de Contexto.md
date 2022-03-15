@@ -7,11 +7,11 @@ Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o pr
 Muitas pessoas possuem dificuldade em gerenciar a manutenção de seus automóveis, seja por falta de tempo ou de conhecimento.
 Frequentemente as pessoas não percebem a notificação de mensagem da oficina que está prestando o serviço. Isso gera problemas como: atraso na entrega do veículo, atraso na comunicação entre o cliente e a oficina, entre outros.
 
-Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
+(Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
 
 Descreva também o contexto em que essa aplicação será usada, se  houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de  fato existir, pois ainda não é a hora de apresentar requisitos  detalhados ou projetos.
 
-Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
+Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.)
 
 > **Links Úteis**:
 > - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
