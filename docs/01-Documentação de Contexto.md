@@ -3,6 +3,10 @@
 Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
 
 ## Problema
+
+Muitas pessoas possuem dificuldade em gerenciar a manutenção de seus automóveis, seja por falta de tempo ou de conhecimento.
+Frequentemente as pessoas não percebem a notificação de mensagem da oficina que está prestando o serviço. Isso gera problemas como: atraso na entrega do veículo, atraso na comunicação entre o cliente e a oficina, entre outros.
+
 Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
 
 Descreva também o contexto em que essa aplicação será usada, se  houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de  fato existir, pois ainda não é a hora de apresentar requisitos  detalhados ou projetos.
