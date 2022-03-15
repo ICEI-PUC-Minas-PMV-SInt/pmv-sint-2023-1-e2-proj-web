@@ -54,3 +54,8 @@ Adicione informações sobre o público-alvo por meio de uma descrição textual
 > - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
 
 ## Estado da Arte
+  - Moto Manutenção Programada - planilha para ajudar no controle de revisão da moto onde o proprietário alimenta o aplicativo.
+   
+  - Carango - controle de revisão e gerenciamento do veículo onde o proprietário alimenta o aplicativo.
+
+    Nenhum deles possui um bom serviço de comunicação entre a oficina e o usuário.
