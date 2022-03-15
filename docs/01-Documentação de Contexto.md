@@ -58,7 +58,7 @@ Adicione informações sobre o público-alvo por meio de uma descrição textual
    
   - Carango - controle de revisão e gerenciamento do veículo onde o proprietário alimenta o aplicativo.
 <div align="center">
-<img src="https://user-images.githubusercontent.com/101222207/158488167-2f95a81e-1299-449c-a24e-efe70de1837b.jpg" width="300px" />
+<img src="https://user-images.githubusercontent.com/101222207/158488167-2f95a81e-1299-449c-a24e-efe70de1837b.jpg" width="100px" />
  </div>
  
     Nenhum deles possui um bom serviço de comunicação entre a oficina e o usuário.
