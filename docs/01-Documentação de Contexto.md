@@ -16,15 +16,15 @@ Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thin
 
 ## Objetivos
 
- Ajudar as pessoas a cuidar melhor dos seus veículos.
+ - Ajudar as pessoas a cuidar melhor dos seus veículos.
  
- Diminuir a ansiedade do motorista de ter que lembrar quando será a próxima revisão.
+ - Diminuir a ansiedade do motorista de ter que lembrar quando será a próxima revisão.
  
- Melhorar o controle que o motorista possui a respeito do próprio automóvel.
+ - Melhorar o controle que o motorista possui a respeito do próprio automóvel.
  
- Ajudar a diminuir os acidentes de trânsito causados pela falta de manutenção preventiva.
+ - Ajudar a diminuir os acidentes de trânsito causados pela falta de manutenção preventiva.
  
- Melhorar a comunicação entre o usuário e a oficina.
+ - Melhorar a comunicação entre o usuário e a oficina.
 
 
 ## Justificativa
