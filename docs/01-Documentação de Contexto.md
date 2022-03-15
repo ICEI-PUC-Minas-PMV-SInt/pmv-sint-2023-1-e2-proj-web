@@ -29,12 +29,16 @@ Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thin
 
 ## Justificativa
 
-Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
+Segundo dados do DataSUS, cerca de 32.879 pessoas morreram em decorrência de acidentes de trânsito no ano de 2019. Fonte: Agência Senado
 
-O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
+https://www12.senado.leg.br/noticias/materias/2021/09/24/brasil-precisa-agir-para-reduzir-mortes-no-transito-alertam-participantes-de-sessao-especial#:~:text=Estat%C3%ADsticas%20com%20rosto,decorr%C3%AAncia%20de%20acidentes%20de%20tr%C3%A2nsito.
 
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
+Uma das principais causas de colisões em rodovias federais foram os defeitos mecânicos. Fonte: Auto Papo - UOL
+
+https://autopapo.uol.com.br/noticia/acidentes-transito-falta-manutencao/
+
+Existe uma demanda dos motoristas por um aplicativo que gere um lembrete de quando deverá ser feita a próxima revisão do veículo.
+
 
 ## Público-Alvo
 
