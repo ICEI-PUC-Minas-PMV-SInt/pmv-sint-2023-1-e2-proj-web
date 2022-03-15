@@ -1,23 +1,24 @@
 # TÍTULO DO PROJETO
 
-`CURSO`
+`CURSO`Tecnologia em Sistemas para Internet.
 
-`DISCIPLINA`
+`DISCIPLINA`Projeto:Aplicações Web.
 
-`SEMESTRE`
+`SEMESTRE`01/2022
 
 Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+* Cheyenne Fontes de Souza 
+* Arthur Wilson de Sousa 
+* Igor Antônio de Oliveira Lloyd 
+* Renato Cacildo Junior 
+* Rodolfo Cícero Lacerda Lana
 
 ## Orientador
 
-* Nome completo do professor 1
+* Fabiano Costa Teixeira 
 
 ## Instruções de utilização
 
