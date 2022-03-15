@@ -6,7 +6,7 @@
 
 `SEMESTRE`01/2022
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+Aplicação Web que auxilia no controle de revisão de motocicletas.
 
 ## Integrantes
 
