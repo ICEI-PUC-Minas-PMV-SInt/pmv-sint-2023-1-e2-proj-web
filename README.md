@@ -2,7 +2,7 @@
 
 `CURSO`Tecnologia em Sistemas para Internet.
 
-`DISCIPLINA`Projeto:Aplicações Web.
+`DISCIPLINA`Projeto: Aplicações Web.
 
 `SEMESTRE`01/2022
 
