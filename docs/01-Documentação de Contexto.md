@@ -16,12 +16,12 @@ Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thin
 
 ## Objetivos
 
-Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. 
+> Ajudar as pessoas a cuidar melhor dos seus veículos.
+> Diminuir a ansiedade do motorista de ter que lembrar quando será a próxima revisão.
+> Melhorar o controle que o motorista possui a respeito do próprio automóvel.
+> Ajudar a diminuir os acidentes de trânsito causados pela falta de manutenção preventiva.
+> Melhorar a comunicação entre o usuário e a oficina.
 
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
- 
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
 
 ## Justificativa
 
