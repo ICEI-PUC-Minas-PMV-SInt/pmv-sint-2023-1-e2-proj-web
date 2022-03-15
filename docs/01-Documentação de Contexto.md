@@ -57,5 +57,5 @@ Adicione informações sobre o público-alvo por meio de uma descrição textual
   - Moto Manutenção Programada - planilha para ajudar no controle de revisão da moto onde o proprietário alimenta o aplicativo.
    
   - Carango - controle de revisão e gerenciamento do veículo onde o proprietário alimenta o aplicativo.
-![Carango1](https://user-images.githubusercontent.com/101222207/158488167-2f95a81e-1299-449c-a24e-efe70de1837b.jpg)
+
     Nenhum deles possui um bom serviço de comunicação entre a oficina e o usuário.
