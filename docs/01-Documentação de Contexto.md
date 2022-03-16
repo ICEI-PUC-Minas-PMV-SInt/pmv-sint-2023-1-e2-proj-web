@@ -62,7 +62,7 @@ Adicione informações sobre o público-alvo por meio de uma descrição textual
 <img src="https://user-images.githubusercontent.com/101222207/158489927-eca4e75f-1985-44dd-9c8b-ca8910659027.jpg" width="200px" />
 <img src="https://user-images.githubusercontent.com/101222207/158490343-77a64b7a-abca-4d4a-a1ea-a80c2ba12076.jpg" width="200px" />
  </p>
- 
+ </div>
  
     Nenhum deles possui um bom serviço de comunicação entre a oficina e o usuário.
     
