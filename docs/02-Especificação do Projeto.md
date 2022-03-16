@@ -7,10 +7,11 @@ Definição do problema e ideia de solução a partir da perspectiva do usuário
 Apresente uma visão geral do que será abordado nesta parte do documento, enumerando as técnicas e/ou ferramentas utilizadas para realizar a especificações do projeto
 
 ## Personas
-|EU COMO... `Foto`   | QUERO/PRECISO ... `Nome`           |PARA ... `MOTIVO/VALOR`                 |
+|Foto                | Nome                               |Descrição                  |
 |--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
+|Foto 1              | Bruno                              | Não esquecer de fazê-las               |
+|Foto 2              | Natália                            | Permitir que possam administrar contas |
+|Foto 3              | Leôncio                            | Permitir que possam administrar contas |
 
 
 ![leoncio](https://user-images.githubusercontent.com/100882909/158489429-c12db4a9-f0d7-4eae-809a-e13e7b70beb9.jpg)<br>
