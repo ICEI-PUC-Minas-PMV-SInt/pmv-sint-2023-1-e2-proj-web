@@ -4,9 +4,10 @@ Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o pr
 
 ## Problema
 
-Muitas pessoas possuem dificuldade em gerenciar a manutenção de seus automóveis, seja por falta de tempo ou de conhecimento.
-Frequentemente as pessoas não percebem a notificação de mensagem da oficina que está prestando o serviço. Isso gera problemas como: atraso na entrega do veículo, atraso na comunicação entre o cliente e a oficina, entre outros.
+Qual a importância das aplicações para web no controle de revisão de motocicletas atualmente?
 
+Muitas pessoas possuem dificuldade em gerenciar a manutenção de suas motocicletas, seja por falta de tempo ou de conhecimento. Frequentemente elas esquecem as datas em que é preciso levar suas motos até uma oficina para fazer revisão, dificilmente lembram-se do histórico de manutenções em seus veículos ou valores gastos com isso e também podem não perceber notificações de mensagens da oficina que está prestando o serviço, visto que é comum que essas mensagens sejam enviadas por whatsapp, que atualmente é o meio de comunicação em comum mais utilizado para diversos assuntos entre as pessoas causando uma grande demanda de mensagens para se atentar. Isso gera problemas como: manutenções em atraso, dificuldade na comunicação entre o cliente e a oficina, falta de conhecimento sobre a situação atual do veículo por falta de histórico acessível, entre outros. 
+Para tentar solucionar tais questões as pessoas recorrem a aplicativos que ajudam tanto na organização, como disponibilizando um histórico e prevendo datas em que haverá necessidade de revisões no veículo, quanto nos envios de lembretes e notificações sobre o assunto.
 
 ## Objetivos
 
@@ -68,6 +69,10 @@ Nenhum deles possui um bom serviço de comunicação entre a oficina e o usuári
 # Questões Éticas
    
 # Impactos Socias
+
+Considerando o grande aumento na circulação de motocicletas durante e pós pandemia devido a expansão dos serviços de entrega (delivery), maior acessibilidade financeira das motos, tanto no preço do veículo quanto na economia em gastos com combustível, enfatizou-se também a necessidade de tecnologias de informação de auxílio nesse campo.
+
+
 
 O aplicativo ajudará a combater os acidentes de trânsito causados por falhas mecânicas;
 
