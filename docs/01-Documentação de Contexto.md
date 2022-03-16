@@ -65,6 +65,15 @@ Adicione informações sobre o público-alvo por meio de uma descrição textual
  </div>
 Nenhum deles possui um bom serviço de comunicação entre a oficina e o usuário.
     
-   # Questões Éticas
+# Questões Éticas
    
-   # Impactos Socias
+# Impactos Socias
+
+O aplicativo ajudará a combater os acidentes de trânsito causados por falhas mecânicas;
+
+Ajudará os motoristas a ter um melhor controle da revisão dos seus veículos.
+
+A função de lembrar o usuário da próxima revisão, ajudará a diminuir a preocupação de ter que lembrar quando será a próxima data da manutenção do automóvel.
+Isso ajuda no bem-estar e saúde mental do usuário.
+
+
