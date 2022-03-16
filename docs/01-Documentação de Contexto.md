@@ -59,13 +59,19 @@ Adicione informações sobre o público-alvo por meio de uma descrição textual
 
 ## Estado da Arte
   - Moto Manutenção Programada - planilha para ajudar no controle de revisão da moto onde o proprietário alimenta o aplicativo.
+   
+   <p float="left">
    <img src="https://user-images.githubusercontent.com/101222207/158491539-32f74a14-1a64-4fc1-a186-f2db852078a6.jpg" width="150px" />
    <img src="https://user-images.githubusercontent.com/101222207/158491546-b6f07bcf-c200-4587-ab07-32354bff9230.jpg" width="150px" />
-   
+  </p> 
+  
   - Carango - controle de revisão e gerenciamento do veículo onde o proprietário alimenta o aplicativo.
+  
+  <p float="left">
 <img src="https://user-images.githubusercontent.com/101222207/158488167-2f95a81e-1299-449c-a24e-efe70de1837b.jpg" width="200px" />
 <img src="https://user-images.githubusercontent.com/101222207/158489927-eca4e75f-1985-44dd-9c8b-ca8910659027.jpg" width="200px" />
 <img src="https://user-images.githubusercontent.com/101222207/158490343-77a64b7a-abca-4d4a-a1ea-a80c2ba12076.jpg" width="200px" />
- </div>
+ </p>
+ 
  
     Nenhum deles possui um bom serviço de comunicação entre a oficina e o usuário.
