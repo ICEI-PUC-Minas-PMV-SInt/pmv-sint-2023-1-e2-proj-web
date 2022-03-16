@@ -11,7 +11,7 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 |--------------------|------------------------------------|--------------------------------| ------------------- | ---------- | ------------------ |
 |Foto 1              | Bruno                              | Não esquecer de f              | Foto                | Nome       |                    |
 |Foto 2              | Natália                            | Permitir que possam rar contas | Foto                | Nome       |                    |
-|![leoncio](https://user-images.githubusercontent.com/100882909/158489429-c12db4a9-f0d7-4eae-809a-e13e7b70beb9.jpg)            | Leôncio                            | 23 anos de idade<br> Estudante do SENAI de mecânica que entende bem de motocicletas| Trabalha de entregador de aplicativos (iFood, UberEats, Rappi, Loggy)                | Desorganizado e sente falta de ter um controle melhor da manutenção da sua moto. Apesar de entender do assunto, ele é desorganizado com o gerenciamento de veículos       |     Gosta de sair com os amigos com a namorada; Jogar futebol               |
+|![leoncio](https://user-images.githubusercontent.com/100882909/158489429-c12db4a9-f0d7-4eae-809a-e13e7b70beb9.jpg)            | Leôncio                            | 23 anos de idade<br> Estudante do SENAI de mecânica que entende bem de motocicletas| Trabalha de entregador de aplicativos (iFood, UberEats, Rappi, Loggy)                | Desorganizado e sente falta de ter um controle melhor da manutenção da sua moto.<br> Apesar de entender do assunto, ele é desorganizado com o gerenciamento de veículos       |     Gosta de sair com os amigos com a namorada<br> Jogar futebol               |
 
 
 
