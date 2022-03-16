@@ -65,3 +65,7 @@ Adicione informações sobre o público-alvo por meio de uma descrição textual
  
  
     Nenhum deles possui um bom serviço de comunicação entre a oficina e o usuário.
+    
+   # Questões Éticas
+   
+   # Imapctos Socias
