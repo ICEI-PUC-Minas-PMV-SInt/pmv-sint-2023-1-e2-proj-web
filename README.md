@@ -6,7 +6,7 @@
 
 `SEMESTRE`01/2022
 
-Aplicação Web em auxílio do controle de revisão de motocicletas.
+Aplicação Web de assistência no controle de revisão de motocicletas.
 
 ## Integrantes
 
