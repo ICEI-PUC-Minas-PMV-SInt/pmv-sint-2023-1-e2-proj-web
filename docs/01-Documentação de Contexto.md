@@ -1,6 +1,11 @@
 # Introdução
 
-Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
+Milhões de brasileiros possuem motocicletas e a revisão e manutenção desses veículos é algo comum na vida dessas pessoas, mas, apesar disso, muitas enfrentam dificuldades com essa atividade, seja devido a desorganização ou a falta de tempo.
+
+Com o objetivo de solucionar essa dor, desenvolvemos um aplicativo cujo objetivo é ajudar o motociclista a ter um controle melhor das revisões do seu veículo. Dessa forma, ele não precisará de se preocupar em lembrar quando foi a última revisão do automóvel e nem de quando deverá ser realizada a próxima. Tudo isso fica por conta do aplicativo que armazena o histórico das revisões e gera um lembrete com as datas futuras.
+
+O sistema também mostra o histórico das peças trocadas e o preço pago pelo serviço prestado. Tudo isso com o objetivo de organizar e aumentar o controle que os motociclistas têm sob o seu veículo.
+
 
 ## Problema
 
