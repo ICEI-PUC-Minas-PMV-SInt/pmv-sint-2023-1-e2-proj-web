@@ -72,6 +72,12 @@ Adicione informações sobre o público-alvo por meio de uma descrição textual
 Nenhum deles possui um bom serviço de comunicação entre a oficina e o usuário.
     
 # Questões Éticas
+
+O aplicativo deverá respeitar e estar de acordo com a LGPD (Lei Geral de Proteção de Dados Pessoais).
+
+Fonte:
+http://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709.htm
+
    
 # Impactos Socias
 
