@@ -10,8 +10,8 @@ Projeto de Aplicação Web direcionado para motocicletas, que visa auxiliar ofic
 
 ## Integrantes
 
-* Cheyenne Fontes de Souza 
-* Arthur Wilson de Sousa 
+* Arthur Wilson de Sousa
+* Cheyenne Fontes de Souza
 * Igor Antônio de Oliveira Lloyd 
 * Renato Cacildo Junior 
 * Rodolfo Cícero Lacerda Lana
