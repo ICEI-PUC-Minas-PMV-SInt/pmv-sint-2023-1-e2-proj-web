@@ -31,6 +31,12 @@ Para tentar solucionar tais questões as pessoas recorrem a aplicativos que ajud
 
 ## Justificativa
 
+As aplicações para web têm sido frequentemente utilizadas como fonte de ajuda, em diversas áreas, por grande parte da população. Devido ao aumento constante no número de usuários de motos, atualmente existem muitos aplicativos na área de mecânica desenvolvidos para auxiliar motociclistas e oficinas no gerenciamento desses veículos em variados assuntos. 
+
+Ter uma moto conservada e em bom funcionamento hoje em dia significa segurança para o condutor, redução de custos e acima de tudo a redução no número de acidentes de trânsito causados por falhas mecânicas.
+
+Observando o cenário atual e a alta demanda em busca de aplicativos de auxílio no gerenciamento de motocicletas, faz-se necessário o desenvolvimento de um sistema exclusivamente voltado para manutenções preventivas desses veículos, que agregue mais valor ao proprietário e a motocicleta, possibilitando que o usuário da moto tenha acesso um canal de contato rápido e prático com a oficina ou mecânico, e permitindo-lhe a organização necessária para que o esquecimento ou a falta de informação não impeçam que seu veículo esteja com as revisões sempre em dia.
+
 Segundo dados do DataSUS, cerca de 32.879 pessoas morreram em decorrência de acidentes de trânsito no ano de 2019. Fonte: Agência Senado
 
 https://www12.senado.leg.br/noticias/materias/2021/09/24/brasil-precisa-agir-para-reduzir-mortes-no-transito-alertam-participantes-de-sessao-especial#:~:text=Estat%C3%ADsticas%20com%20rosto,decorr%C3%AAncia%20de%20acidentes%20de%20tr%C3%A2nsito.
