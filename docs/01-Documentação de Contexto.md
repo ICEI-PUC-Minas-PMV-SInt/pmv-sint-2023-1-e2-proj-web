@@ -45,7 +45,6 @@ Uma das principais causas de colisões em rodovias federais foram os defeitos me
 
 https://autopapo.uol.com.br/noticia/acidentes-transito-falta-manutencao/
 
-Existe uma demanda dos motoristas por um aplicativo que gere um lembrete de quando deverá ser feita a próxima revisão do veículo.
 
 
 ## Público-Alvo
