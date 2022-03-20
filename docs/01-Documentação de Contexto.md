@@ -45,7 +45,7 @@ Existe uma demanda dos motoristas por um aplicativo que gere um lembrete de quan
 ## Público-Alvo
 • Motociclistas de aplicativos que tem o habito de realizar apenas as manutenções corretivas e deixam em segundo plano as preventivas, devido a rotina constante de entregas, com isso sua segurança fica vulnerável e um controle através de aplicativo facilitaria esse domínio. <br>
 
-•	Motociclistas e Motoqueiros de moto clubes que possuem uma moto para o dia a dia e também para o prazer de fazer viagens longas e curtas, necessitam de controlar constantemente as condições mecânicas da sua moto, assim um aplicativo interligado com a oficina mecânica e concessionária facilitaria essa interface.
+•	Motociclistas e Motoqueiros de moto clubes que possuem uma moto para o dia a dia e também para o prazer de fazer viagens longas e curtas, necessitam  controlar constantemente as condições mecânicas da sua moto, assim um aplicativo interligado com a oficina mecânica e concessionária facilitaria essa interface.
 <br>
 
 • Pequenas concessionárias e Oficinas mecânicas que utilizam planilhas e softwares próprios de controle de manutenção e também de uso de whatsapp como interface de demonstrações e informações da moto com o cliente e necessitam de um aplicativo que facilite essa interação.  <br>
