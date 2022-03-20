@@ -49,7 +49,7 @@ Existe uma demanda dos motoristas por um aplicativo que gere um lembrete de quan
 
 • Pequenas concessionárias e Oficinas mecânicas que utilizam planilhas e softwares próprios de controle de manutenção e também de uso de whatsapp como interface de demonstrações e informações da moto com o cliente e necessitam de um aplicativo que facilite essa interação.  <br>
 <h2>Grafico Stakeholders<h2/>
- <img src="../imagens/mapa-stakeholders.png" width="150px" />
+ <img src="../imagens/mapa-stakeholders.png" width="600px" />
 
 
 
