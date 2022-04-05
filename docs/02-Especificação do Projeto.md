@@ -32,10 +32,10 @@ Com base na análise das personas foram identificadas as seguintes histórias de
 |2- Entregador de aplicativo| Saber quanto tempo minha moto ficará na oficina para o serviço de manutenção |Saber data e horário para buscar minha moto é importante, visto que, é meu meio de sustento e preciso dela para trabalhar todos os dias.|
 |3- Entregador de aplicativo| Me comunicar rápido e de forma eficiente com o gerente da oficina responsável por meu veículo| Me manter a par da situação e saber se houver qualquer imprevisto que atrase a entrega|
 |4 - Motociclista por hobby | Uma funcionalidade que me dê acesso ao histórico do meu veículo|Porque é importante caso queira vendê-lo em algum momento para poder comprar uma motocicleta mais atualizada. Ter o histórico com manutenções em dia em mãos passa mais credibilidade ao comprado|
-|5- Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|6 - Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
-|7 - Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|8- Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
+|5- Proprietário de uma oficina|Que o cliente possa responder uma pesquisa de satisfação do serviço|Para ter um feedback e um melhor controle da qualidade do serviço prestado|
+|6 - Proprietário de uma oficina|Que o cliente possa compartilhar sua experiência deixando um comentário sobre o serviço prestado|Para mostrar para os outros usuários sua experiência com o serviço|
+|7 - Proprietário de uma oficina|Que o cliente possa avaliar sua experiência com o serviço prestado com uma nota de 1 a 5|Para mostrar para os outros usuários sua satisfação com o serviço|
+|8- Usuário com dificuldades em usar a tecnologia|Uma página de ajuda| Para me orientar a utilizar o aplicativo|               |
 |9 - Administrador       | Alterar permissões                | Permitir que possam administrar contas |
 |10 - Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
 |11 - Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
@@ -68,8 +68,8 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |------|-----------------------------------------|----|
 |RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
 |RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
-
-
+|RF-003| Cadastro de serviço não permitindo quilometragem e data inferior registrada no último serviço.|Alta|
+|RF-004| Listar/ exibir histórico das revisões indicando data, custos, veículo e cliente.|Alta|
 
 
 ### Requisitos não Funcionais
