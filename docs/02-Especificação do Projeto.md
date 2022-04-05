@@ -28,15 +28,15 @@ Com base na análise das personas foram identificadas as seguintes histórias de
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|1- Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|2 - Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
-|3 - Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|4 - Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
+|1- Entregador de aplicativo| Saber as datas previstas para as manutenções preventivas |Preciso cuidar do meu veículo, por segurança e mantê-lo funcionando adequadamente com o objetivo de não perder dias de trabalho caso a moto venha a apresentar problemas. |
+|2- Entregador de aplicativo| Saber quanto tempo minha moto ficará na oficina para o serviço de manutenção |Saber data e horário para buscar minha moto é importante, visto que, é meu meio de sustento e preciso dela para trabalhar todos os dias.|
+|3- Entregador de aplicativo| Me comunicar rápido e de forma eficiente com o gerente da oficina responsável por meu veículo| Me manter a par da situação e saber se houver qualquer imprevisto que atrase a entrega|
+|4 - Motociclista por hobby | Uma funcionalidade que me dê acesso ao histórico do meu veículo|Porque é importante caso queira vendê-lo em algum momento para poder comprar uma motocicleta mais atualizada. Ter o histórico com manutenções em dia em mãos passa mais credibilidade ao comprado|
 |5- Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
 |6 - Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
 |7 - Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
 |8- Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|9 - Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
+|9 - Administrador       | Alterar permissões                | Permitir que possam administrar contas |
 |10 - Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
 |11 - Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
 |12- Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
