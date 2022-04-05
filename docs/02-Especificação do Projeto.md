@@ -65,10 +65,10 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
-|RF-003| Cadastro de serviço não permitindo quilometragem e data inferior registrada no último serviço.|Alta|
-|RF-004| Listar/ exibir histórico das revisões indicando data, custos, veículo e cliente.|Alta|
+|RF-001| Cadastro de perfil do cliente. Nome, veículos, endereço, data de nascimento, telefone, senha, email | ALTA | 
+|RF-002| Cadastro de veículos: modelo (cor, ano, marca, cilindrada), placa, quilometragem| MÉDIA |
+|RF-003| Cadastro de serviço não permitindo quilometragem e data inferior registrada no último serviço.|ALTA|
+|RF-004| Listar/ exibir histórico das revisões indicando data, custos, veículo e cliente.|ALTA|
 
 
 ### Requisitos não Funcionais
