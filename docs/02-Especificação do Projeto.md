@@ -28,8 +28,26 @@ Com base na análise das personas foram identificadas as seguintes histórias de
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
+|1- Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
+|2 - Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
+|3 - Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
+|4 - Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
+|5- Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
+|6 - Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
+|7 - Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
+|8- Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
+|9 - Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
+|10 - Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
+|11 - Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
+|12- Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
+|13 - Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
+| Dono da oficina  | Uma funcionalidade que registre a quantidade de clientes e me mostre seus perfis  | Envio de promoções ou informações que mantenham a fidelidade |
+| Gerente da oficina  | Ver os relatórios com as seguintes informações:  Quantidade diária de motocicletas que serão recebidas na oficina, quais clientes serão atendidos, o tempo total em que cada uma ficará aos cuidados do mecânico e os orçamentos | Organizar a empresa de forma que todos os clientes sejam atendidos com eficácia, evitar que os mecânicos não fiquem sobrecarregados e ter um maior controle financeiro  |
+| Gerente da oficina  | Ter acesso a um calendário com datas e horários disponíveis | Receber e agendar horários com novos clientes  |
+| Dono de moto  | Ter acesso a uma tabela com informações sobre valores, serviços e estimativa do tempo de serviço  | Para melhor organização do meu tempo e do meu dinheiro |
+
+
+
 
 Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
 
@@ -52,12 +70,16 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
 
 
+
+
 ### Requisitos não Funcionais
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
 |RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
 |RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
+|RNF-002| Design responsivo | MÉDIA | 
+|RNF-003| Design de interface simples e intuitivo |  MÉDIA | 
 
 Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
 
