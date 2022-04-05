@@ -36,15 +36,14 @@ Com base na análise das personas foram identificadas as seguintes histórias de
 |6 - Proprietário de uma oficina|Que o cliente possa compartilhar sua experiência deixando um comentário sobre o serviço prestado|Para mostrar para os outros usuários sua experiência com o serviço|
 |7 - Proprietário de uma oficina|Que o cliente possa avaliar sua experiência com o serviço prestado com uma nota de 1 a 5|Para mostrar para os outros usuários sua satisfação com o serviço|
 |8- Usuário com dificuldades em usar a tecnologia|Uma página de ajuda| Para me orientar a utilizar o aplicativo|               |
-|9 - Administrador       | Alterar permissões                | Permitir que possam administrar contas |
-|10 - Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|11 - Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
-|12- Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|13 - Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
-|14 - Dono da oficina  | Registrar a quantidade de clientes e me mostre seus perfis  | Envio de promoções ou informações que mantenham a fidelidade |
-|15 - Gerente da oficina  | Ver os relatórios com as seguintes informações:  Quantidade diária de motocicletas que serão recebidas na oficina, quais clientes serão atendidos, o tempo total em que cada uma ficará aos cuidados do mecânico e os orçamentos | Organizar a empresa de forma que todos os clientes sejam atendidos com eficácia, evitar que os mecânicos não fiquem sobrecarregados e ter um maior controle financeiro  |
-|16 - Gerente da oficina  | Ter acesso a um calendário com datas e horários disponíveis | Receber e agendar horários com novos clientes  |
-|17 - Dono de moto  | Ter acesso a uma tabela com informações sobre valores, serviços e estimativa do tempo de serviço  | Para melhor organização do meu tempo e do meu dinheiro |
+|9 - Apreciador de motos | Analisar o histórico de revisões da moto| Avaliar se vale a pena comprar ou não a moto|
+|10 - Usuário que usa a moto para ir ao serviço| Verificar se a manutenção do veículo está em dia| Evitar situações inesperadas com o veículo durante o uso do mesmo|
+|11 - Entregador de encomendas | Acompanhar o histórico das datas das revisões da minha moto | Gerenciar melhor meus gastos e ter um controle das revisões futuras|
+|12- Gerente de oficina mecânica  | Registrar os dados da manutenção dos veículos dos meus clientes | Melhor gerir as revisões feitas nos veículos dos clientes|
+|13 - Dono da oficina  | Registrar a quantidade de clientes e me mostre seus perfis  | Envio de promoções ou informações que mantenham a fidelidade |
+|14 - Gerente da oficina  | Ver os relatórios com as seguintes informações:  Quantidade diária de motocicletas que serão recebidas na oficina, quais clientes serão atendidos, o tempo total em que cada uma ficará aos cuidados do mecânico e os orçamentos | Organizar a empresa de forma que todos os clientes sejam atendidos com eficácia, evitar que os mecânicos não fiquem sobrecarregados e ter um maior controle financeiro  |
+|15 - Gerente da oficina  | Ter acesso a um calendário com datas e horários disponíveis | Receber e agendar horários com novos clientes  |
+|16 - Dono de moto  | Ter acesso a uma tabela com informações sobre valores, serviços e estimativa do tempo de serviço  | Para melhor organização do meu tempo e do meu dinheiro |
 
 
 
