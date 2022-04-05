@@ -17,7 +17,7 @@ As personas levantadas para o entendimento do problema são apresentadas na tabe
 |![leoncio](https://user-images.githubusercontent.com/100882909/158489429-c12db4a9-f0d7-4eae-809a-e13e7b70beb9.jpg)            | Leôncio                            | • 23 anos de idade.<br> • Estudante do SENAI de mecânica que entende bem de motocicletas.<br> • Trabalha de entregador de aplicativos (iFood, UberEats, Rappi, Loggy). | Quer se tornar engenheiro mecânico e trabalha duro para continuar estudando.                | Desorganizado e sente falta de ter um controle melhor da manutenção da sua moto.<br> Apesar de entender do assunto, ele é desorganizado com o gerenciamento de veículos.       |     • Gosta de sair com os amigos com a namorada<br> • Jogar futebol.               |
 |         | Ana                       | • Gerente de mecânica <br> •  | xxxxxxxxxxxxxxxxxxx.                | xxxxxxxx.<br> xxxxx.       |     • xxxxxxxx<br> • xxxx  
 |         | Carlos                       | • Mecânico <br> •  | xxxxxxxxxxxxxxxxxxx.                | xxxxxxxx.<br> xxxxx.       |     • xxxxxxxx<br> • xxxx  
-|         | Geraldo                       | • Mecânico <br> •  | xxxxxxxxxxxxxxxxxxx.                | xxxxxxxx.<br> xxxxx.       |     • xxxxxxxx<br> • xxxx  
+|         | Geraldo                       | • Dono de oficina <br> •  | xxxxxxxxxxxxxxxxxxx.                | xxxxxxxx.<br> xxxxx.       |     • xxxxxxxx<br> • xxxx  
 
 
 
