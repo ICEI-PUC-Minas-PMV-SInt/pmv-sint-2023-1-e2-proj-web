@@ -44,7 +44,10 @@ Com base na análise das personas foram identificadas as seguintes histórias de
 |14 - Gerente da oficina  | Ver os relatórios com as seguintes informações:  Quantidade diária de motocicletas que serão recebidas na oficina, quais clientes serão atendidos, o tempo total em que cada uma ficará aos cuidados do mecânico e os orçamentos | Organizar a empresa de forma que todos os clientes sejam atendidos com eficácia, evitar que os mecânicos não fiquem sobrecarregados e ter um maior controle financeiro  |
 |15 - Gerente da oficina  | Ter acesso a um calendário com datas e horários disponíveis | Receber e agendar horários com novos clientes  |
 |16 - Dono de moto  | Ter acesso a uma tabela com informações sobre valores, serviços e estimativa do tempo de serviço  | Para melhor organização do meu tempo e do meu dinheiro |
-
+|17 - Gerente de uma oficina  | Quero um sistema de registro que peça poucas informações | Para que eu não tenha muita dificuldade ou gaste muito tempo em registrar meu negócio |
+|18 - Mecânico  | Quero um relatório que me mostre as informações das revisões passadas do veículo | Para saber quais procedimentos devem ser feitos com maior efetividade |
+|19 - Gerente da oficina  | Quero uma funcionalidade que registre novas informações coletadas no último atendimento | Para manter sempre o histórico das motocicletas atualizado |
+|20 - Gerente da oficina  | Quero uma funcionalidade que me ajude a me comunicar com o cliente | Para avisar qualquer imprevisto, solucionar dúvidas, informar procedimentos e combinar horários |
 
 
 
