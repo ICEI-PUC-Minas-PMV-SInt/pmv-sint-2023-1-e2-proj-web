@@ -41,10 +41,10 @@ Com base na análise das personas foram identificadas as seguintes histórias de
 |11 - Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
 |12- Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
 |13 - Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
-| Dono da oficina  | Uma funcionalidade que registre a quantidade de clientes e me mostre seus perfis  | Envio de promoções ou informações que mantenham a fidelidade |
-| Gerente da oficina  | Ver os relatórios com as seguintes informações:  Quantidade diária de motocicletas que serão recebidas na oficina, quais clientes serão atendidos, o tempo total em que cada uma ficará aos cuidados do mecânico e os orçamentos | Organizar a empresa de forma que todos os clientes sejam atendidos com eficácia, evitar que os mecânicos não fiquem sobrecarregados e ter um maior controle financeiro  |
-| Gerente da oficina  | Ter acesso a um calendário com datas e horários disponíveis | Receber e agendar horários com novos clientes  |
-| Dono de moto  | Ter acesso a uma tabela com informações sobre valores, serviços e estimativa do tempo de serviço  | Para melhor organização do meu tempo e do meu dinheiro |
+|14 - Dono da oficina  | Registrar a quantidade de clientes e me mostre seus perfis  | Envio de promoções ou informações que mantenham a fidelidade |
+|15 - Gerente da oficina  | Ver os relatórios com as seguintes informações:  Quantidade diária de motocicletas que serão recebidas na oficina, quais clientes serão atendidos, o tempo total em que cada uma ficará aos cuidados do mecânico e os orçamentos | Organizar a empresa de forma que todos os clientes sejam atendidos com eficácia, evitar que os mecânicos não fiquem sobrecarregados e ter um maior controle financeiro  |
+|16 - Gerente da oficina  | Ter acesso a um calendário com datas e horários disponíveis | Receber e agendar horários com novos clientes  |
+|17 - Dono de moto  | Ter acesso a uma tabela com informações sobre valores, serviços e estimativa do tempo de serviço  | Para melhor organização do meu tempo e do meu dinheiro |
 
 
 
