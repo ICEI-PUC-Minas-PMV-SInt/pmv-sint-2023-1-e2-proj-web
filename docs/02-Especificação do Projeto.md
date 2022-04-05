@@ -72,6 +72,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RF-002| Cadastro de veículos: modelo (cor, ano, marca, cilindrada), placa, quilometragem| MÉDIA |
 |RF-003| Cadastro de serviço não permitindo quilometragem e data inferior registrada no último serviço.|ALTA|
 |RF-004| Listar/ exibir histórico das revisões indicando data, custos, veículo e cliente.|ALTA|
+|RF-005| Notificar o usuário quanto ao prazo de revisão preventiva por quilometragem ou tempo do último serviço.|ALTA|
 
 
 ### Requisitos não Funcionais
@@ -82,6 +83,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RNF-002| Design responsivo | MÉDIA | 
 |RNF-003| Design de interface simples e intuitivo |  MÉDIA | 
 |RNF-004| Formulário com poucos campos para serem preenchidos | MÉDIA |
+|RNF-005| Segurança dos dados do usuário | ESSENCIAL |
 
 
 Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
