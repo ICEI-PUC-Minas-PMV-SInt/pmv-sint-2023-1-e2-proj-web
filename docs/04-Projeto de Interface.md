@@ -10,29 +10,42 @@ Visão geral da interação do usuário pelas telas do sistema e protótipo inte
 ## User Flow
 
 <img src="https://user-images.githubusercontent.com/85751689/163292324-3a52070b-f0a2-4692-8369-79819645f310.jpg"></img>
+<br>
 
+<img src="https://user-images.githubusercontent.com/85751689/163297668-38d2d5ee-fa94-41b1-881d-96adb59293ee.jpg" style="width: 400px;"></img><br>
 <strong>Interface 1.0:</strong> utilizada para fazer o login.
 
+<img src="https://user-images.githubusercontent.com/85751689/163297831-1bc1990f-da9a-4403-8db8-6a42b3f68442.jpg" style="width: 400px;"></img><br>
 <strong>Interface 2.1:</strong> utilizada pelo usuário para selecionar a categoria da sua conta.
 
+<img src="https://user-images.githubusercontent.com/85751689/163297924-6f93e8bb-4c64-4fac-8971-0ffabf5eccd5.jpg" style="width: 400px;"></img><br>
 <strong>Interface 2.2:</strong> utilizada pelo usuário para registrar suas credenciais de acesso.
 
+<img src="https://user-images.githubusercontent.com/85751689/163297983-03b212a4-8799-43dc-807f-5d2c6e498d46.jpg" style="width: 400px;"></img><br>
 <strong>Interface 2.3.1 A:</strong> utilizada pelo usuário do tipo 'motorista' para registrar sua identificação.
 
+<img src="https://user-images.githubusercontent.com/85751689/163298054-81b509fe-120e-41be-98fd-92baa3e66648.jpg" style="width: 400px;"></img><br>
 <strong>Interface 2.3.1 B:</strong> utilizada pelo usuário do tipo 'oficina' para registrar sua identificação.
 
+<img src="https://user-images.githubusercontent.com/85751689/163298129-06c92134-dbf4-4f47-b5b8-9d6dc6f27d82.jpg" style="width: 400px;"></img><br>
 <strong>Interface 2.3.2 B:</strong> utilizada pelo usuário do tipo 'oficina' para registrar seu endereço.
 
+<img src="https://user-images.githubusercontent.com/85751689/163298245-f47517d0-f1c9-4d58-9863-f5d7311accf8.jpg" style="width: 400px;"></img><br>
 <strong>Interface 2.4 B:</strong> mostra uma mensagem avisando ao usuário que a conta foi criada com sucesso.
 
+<img src="https://user-images.githubusercontent.com/85751689/163298301-33ff01d2-d596-4689-8430-a19f0de2ac3c.jpg" style="width: 400px;"></img><br>
 <strong>Interface 3.1 A:</strong> fornece as revisões para o usuário do tipo 'motorista'.
 
+<img src="https://user-images.githubusercontent.com/85751689/163298377-22a0c533-c596-4dc8-9877-e11d6dd4e7e5.jpg" style="width: 400px;"></img><br>
 <strong>Interface 3.2 A:</strong> fornece os agendamentos para o usuário do tipo 'motorista'.
 
+<img src="https://user-images.githubusercontent.com/85751689/163298434-155797ee-cd8c-47e6-9892-d6ef3e0b3d27.jpg" style="width: 400px;"></img><br>
 <strong>Interface 3.2 B:</strong> fornece os agendamentos para o usuário do tipo 'oficina'.
 
+<img src="https://user-images.githubusercontent.com/85751689/163298507-e6dfeca5-fc27-4b7e-9f64-24758da018e9.jpg" style="width: 400px;"></img><br>
 <strong>Interface 3.3 A:</strong> utilizada pelo usuário do tipo 'motorista' para cadastrar motos.
 
+<img src="https://user-images.githubusercontent.com/85751689/163298567-1b21315a-84fb-4011-a958-7a44afe9909a.jpg" style="width: 400px;"></img><br>
 <strong>Interface 3.3 B:</strong> utilizada pelo usuário do tipo 'oficina' para cadastrar peças.
 
 Fluxo de usuário (User Flow) é uma técnica que permite ao desenvolvedor mapear todo fluxo de telas do site ou app. Essa técnica funciona para alinhar os caminhos e as possíveis ações que o usuário pode fazer junto com os membros de sua equipe.
