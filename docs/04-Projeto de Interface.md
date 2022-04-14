@@ -11,6 +11,30 @@ Visão geral da interação do usuário pelas telas do sistema e protótipo inte
 
 <img src="https://user-images.githubusercontent.com/85751689/163292324-3a52070b-f0a2-4692-8369-79819645f310.jpg"></img>
 
+<strong>Interface 1.0:</strong> utilizada para fazer o login.
+
+<strong>Interface 2.1:</strong> utilizada pelo usuário para selecionar a categoria da sua conta.
+
+<strong>Interface 2.2:</strong> utilizada pelo usuário para registrar suas credenciais de acesso.
+
+<strong>Interface 2.3.1 A:</strong> utilizada pelo usuário do tipo 'motorista' para registrar sua identificação.
+
+<strong>Interface 2.3.1 B:</strong> utilizada pelo usuário do tipo 'oficina' para registrar sua identificação.
+
+<strong>Interface 2.3.2 B:</strong> utilizada pelo usuário do tipo 'oficina' para registrar seu endereço.
+
+<strong>Interface 2.4 B:</strong> mostra uma mensagem avisando ao usuário que a conta foi criada com sucesso.
+
+<strong>Interface 3.1 A:</strong> fornece as revisões para o usuário do tipo 'motorista'.
+
+<strong>Interface 3.2 A:</strong> fornece os agendamentos para o usuário do tipo 'motorista'.
+
+<strong>Interface 3.2 B:</strong> fornece os agendamentos para o usuário do tipo 'oficina'.
+
+<strong>Interface 3.3 A:</strong> utilizada pelo usuário do tipo 'motorista' para cadastrar motos.
+
+<strong>Interface 3.3 B:</strong> utilizada pelo usuário do tipo 'oficina' para cadastrar peças.
+
 Fluxo de usuário (User Flow) é uma técnica que permite ao desenvolvedor mapear todo fluxo de telas do site ou app. Essa técnica funciona para alinhar os caminhos e as possíveis ações que o usuário pode fazer junto com os membros de sua equipe.
 
 > **Links Úteis**:
