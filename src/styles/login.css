@@ -1,22 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700;900&display=swap');
+
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-}
-
-a {
-    text-decoration: none;
-    color: inherit;
-}
-
-input {
-    background-color: #e4e4e4;
-    border: none;
-    min-height: 1rem;
-    width: 592px;
-    margin-top: 10px;
-    padding: 10px;
-    outline: none;
 }
 
 body {
@@ -24,51 +11,59 @@ body {
 }
 
 main {
+    min-height: 100vh;
+    width: 100%;
     display: flex;
-    justify-content: center;
     align-items: center;
     flex-direction: column;
-    flex-wrap: wrap;
 }
 
 #logo {
-    margin-top: 80px;
-    margin-bottom: 94px;
-    font-size: 40px;
-    font-weight: 500;
+    text-align: center;
+    font-size: 1.8rem;
+    margin-top: 40px;
+    margin-bottom: 60px;
 }
 
-form {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-}
-
-.inputs {
+form label {
     font-size: 1.2rem;
-    display: flex;
-    flex-direction: column;
 }
 
-.inputs:first-of-type {
-    margin-bottom: 2rem;
+form input[type="text"],
+form input[type="password"] {
+    outline: none;
+    border: none;
+    background-color: #E4E4E4;
+    font-size: 0.9rem;
+    width: 592px;
+    margin-top: 10px;
+    padding: 10px;
 }
 
-.buttons {
-    margin-top: 3rem;
-    height: 120px;
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
-    align-items: center;
+form .field {
+    margin-top: 20px;
 }
 
-button {
-    background-color: #3BB4F6;
+form .login-btn {
+    display: block;
     color: #ffffff;
+    background-color: #3BB4F6;
     font-size: 1.2rem;
     border: none;
     border-radius: 8px;
     padding: 9px 25px;
+    margin: 2.5rem 0;
     cursor: pointer;
+}
+
+form .buttons {
+    margin-top: 70px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+form a {
+    color: inherit;
+    text-decoration: none;
 }

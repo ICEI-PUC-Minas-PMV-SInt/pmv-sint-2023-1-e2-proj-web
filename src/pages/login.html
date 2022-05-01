@@ -10,23 +10,22 @@
 <body>
     <main>
         <span id="logo">Logo</span>
-        <form action="GET">
-            <div class="inputs">
-                <label for="user_email">E-mail</label>
-                <input type="email" id="user_email" required>
+
+        <form action="#">
+            <div class="field">
+                <label for="email">E-mail</label><br>
+                <input type="text" id="email" name="email"><br>
             </div>
 
-            <div class="inputs">
-                <label for="user_password">Senha</label>
-                <input type="password" id="user_password" required>
+            <div class="field">
+                <label for="password">Senha</label><br>
+                <input type="password" id="password" name="password"><br>
             </div>
-
+            
             <div class="buttons">
-                <span id="forgot_password"><a href="#">Esqueci a senha</a></span>
-    
-                <button id="button_login" type="submit">Fazer login</button>
-    
-                <span id="create_account"><a href="#">Criar conta</a></span>
+                <a href="#">Esqueci a senha</a>
+                <input class="login-btn" type="submit" value="Fazer Login">
+                <a href="#">Criar conta</a>
             </div>
         </form>
     </main>
