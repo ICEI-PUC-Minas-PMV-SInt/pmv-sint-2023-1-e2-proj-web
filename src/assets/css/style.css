@@ -1,0 +1,53 @@
+.menu {
+	display: flex;
+
+	background-color: #21A0E6;
+	justify-content: space-between;
+}
+
+.perfil {
+	display: block;
+	height: 50px;
+	width: 50px;
+	border-radius: 50%;
+	background-color:rgb(214, 214, 214);
+}
+
+main{
+	display: inline-block;
+
+}
+
+.aside {
+	display: inline-block;
+	background-color: #178DCE;
+	display: block;
+	height: calc(100vh - 50px);
+	width: 100px;
+}
+
+.principal {
+	height: calc(100vh - 50px);
+}
+
+
+.container-principal {
+    width: 100vw;
+    height: 90vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.box {
+    width: 800px;
+    height: 400px;
+    background: #fff;
+   /* box-shadow: 1px 1px 1px 1px rgba(0, 0, 0, 0.1);*/
+}
+
+.btn-color {
+    background-color: #21A0E6;
+    
+}
