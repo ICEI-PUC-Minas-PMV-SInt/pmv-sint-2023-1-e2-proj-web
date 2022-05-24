@@ -1,12 +1,13 @@
-// Pegando a tag 
+// Pegando a tag <input id="buttonSendForm">
 const buttonSendForm = document.getElementById('buttonSendForm');
 
+// Adicionando um "Escutador de Eventos" na tag <input id="buttonSendForm">
 buttonSendForm.addEventListener('click', (event) => {
     // Prevenindo as funções que vem por padrão na tag <input>
     event.preventDefault();
 
     // Salvando o e-mail e a senha no localStorage
-    saveLocalStorage(userEmail, userPassword);
+    saveLocalStorage();
 
     // Mostrando os dados do localStorage na tag <div id="localStorageOutput"></div>
     showLocalStorage();
