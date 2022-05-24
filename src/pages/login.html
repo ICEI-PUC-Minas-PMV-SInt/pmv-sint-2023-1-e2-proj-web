@@ -1,32 +1,41 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
+    <!-- Metatags & Configs -->
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Login</title>
+    <!-- Styles -->
     <link rel="stylesheet" href="../styles/login.css">
+    <link rel="stylesheet" href="../styles/localStorageOutput.css">
+    <!-- Scripts -->
+    <script src="../code/loginLocalStorage.js" defer></script>
 </head>
 <body>
     <main>
         <span id="logo">Logo</span>
         <form action="#">
             <div class="field">
-                <label for="email">E-mail</label><br>
-                <input type="text" id="email" name="email"><br>
+                <label for="userEmail">E-mail</label><br>
+                <input type="text" id="userEmail" name="email"><br>
             </div>
 
             <div class="field">
-                <label for="password">Senha</label><br>
-                <input type="password" id="password" name="password"><br>
+                <label for="userPassword">Senha</label><br>
+                <input type="password" id="userPassword" name="password"><br>
             </div>
             
             <div class="buttons">
                 <a href="#">Esqueci a senha</a>
-                <input class="login-btn" type="submit" value="Fazer Login">
+                <input id="buttonSendForm" class="login-btn" type="submit" value="Fazer Login">
                 <a href="#">Criar conta</a>
             </div>
         </form>
     </main>
+
+    <div id="localStorageOutput">
+        <button onclick="clearLocalStorage()">Limpar LocalStorage</button>
+    </div>
 </body>
 </html>
