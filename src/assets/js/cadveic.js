@@ -24,23 +24,24 @@ function addVeic() {
         // O JSON.parse transforma a string em JSON novamente, o inverso do JSON.strigify
         JSON.stringify([...JSON.parse(localStorage.getItem('veiculos')),dataObj]));
     }
+    //createRow();
    // renderItem(dataObj);
     limpaInput();
     
   }
     //Funcão para limpar os inputs ao salvar/adicionar
     function limpaInput(){
-    placa =         $('input[id=placa]').val("");
-    ano =           $('input[id=ano]').val("");
-    marca =         $('input[id=marca]').val("");
-    cor =           $('input[id=cor]').val("");
+    placa         = $('input[id=placa]').val("");
+    ano           = $('input[id=ano]').val("");
+    marca         = $('input[id=marca]').val("");
+    cor           = $('input[id=cor]').val("");
     quilometragem = $('input[id=quilometragem]').val("");
-    cilindrada =    $('input[id=cilindrada]').val("");
+    cilindrada    = $('input[id=cilindrada]').val("");
     }
-    
     
   function renderItem(veiculo) {
     // Adicionando uma div 
+    /*
     $('.veiculos').append(`
     <div class="list-group-item">
       <strong>Placa: </strong>          ${veiculo.placa}<br>
@@ -51,6 +52,19 @@ function addVeic() {
       <strong>Cilindrada:   </strong>   ${veiculo.cilindrada}
     </div>`);
   }
+*/
+  $('.veiculos').append(`
+  <tr class="list-veiculos-item">
+    <td>${veiculo.placa}</td>   
+    <td>${veiculo.ano}</td>  
+    <td>${veiculo.marca}</td>
+    <td>${veiculo.cor}</td>
+    <td>${veiculo.quilometragem}</td>
+    <td>${veiculo.cilindrada}</td>
+  </
+  tr>`);
+
+}
 
   function getItems() {
     // Pegando o array do localstorage
@@ -65,6 +79,6 @@ function addVeic() {
 
   function listar() {
     getItems();
-    renderItem();
-    
+   // renderItem();
+   //createRow();
   }

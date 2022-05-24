@@ -9,7 +9,9 @@
   <!-- Bootstrap CSS -->
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
     integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous" />
+  <script src="https://kit.fontawesome.com/d56a2b5f3f.js" crossorigin="anonymous"></script>
   <link rel="stylesheet" href="../assets/css/style.css">
+  <link rel="shortcut icon" type="image/x-icon" href="../assets/img/favicon.ico">
 </head>
 
 <body>
@@ -17,11 +19,15 @@
   <header class="menu">
     <div class="menu__link">
       <span>Hamburger</span>
-      <span>Logo</span>
-      <span>Olá Motorista</span>
+      <h1 class="logo p-2">Logo</h1>
     </div>
 
-    <div class="perfil"></div>
+    <div class="perfil">
+      <span class="text-perfil">Olá, Geraldo</span>
+      <div class="perfil__im px-5">
+          <img class="perfil__img" src="./assets/img/geraldo.png" alt="Foto do perfil">
+      </div>
+  </div>
   </header>
   <!-- *********************************************-->
 
@@ -29,16 +35,29 @@
     <div class="row">
 
       <div class="aside col-2">
-
+        
+        <ul class="aside__list">
+          <!--    <li><a href="#"><span class="fas fa-home"></span>Página incial</a></li>-->
+              <li><a href="#"><span class="fas fa-plus-circle"></span>Cadastro </a>
+                  <ul>
+                     <!--
+                     <li><a href="cadastroClientes.html"><span class="fas fa-address-card"></span>Clientes </a></li>
+                     <li><a href="cadastroVeiculos.html"><span class="fas fa-motorcycle"></span>Veículos</a></li>
+                       -->
+                  </ul>
+              </li>
+              <li><a href="cadastroClientes.html"><span class="fas fa-address-card"></span>Clientes </a></li>
+              <li><a href="#"><span class="fas fa-motorcycle"></span>Veículos</a></li>
+              <li><a href="agendamento.html"><span class="fas fa-calendar"></span>Agendamento</a></li>
+              <li><a href="tabelaRevisoes.html"><span class="fas fa-clipboard-list"></span>Tabela Revisões</a></li>
+              <li><a href="#"><span class="fas fa-sign-out"></span>Sair</a></li>
+         </ul>
       </div>
 
 
       <div class="container col-9">
         <div class="container p-3">
-          <h2>Cadastro de Veículo</h2>
-          <div class="row p-3">
-            <h3 class="cadastro-titulo">Modelo</h3>
-          </div>
+          <h3>Cadastro de Veículos</h3>
         </div>
 
         <form class="row g-3">
@@ -46,18 +65,18 @@
             <div class="row">
 
               <div class="col-4">
-                <label>Placa: </label>
-                <input name="name" id="placa" class="form-control" type="text" />
+                <label for="placa">Placa: </label>
+                <input id="placa" class="form-control" type="text" placeholder="Placa" autofocus required/>
 
               </div>
               <div class="col-4">
-                <label>Ano: </label>
-                <input name="name" id="ano" class="form-control" type="text" />
+                <label for="ano">Ano: </label>
+                <input id="ano" class="form-control" type="text" placeholder="Ano" required />
 
               </div>
               <div class="col-4">
-                <label>Marca:</label>
-                <input name="qtd" id="marca" class="form-control" type="text" />
+                <label for="marca">Marca:</label>
+                <input id="marca" class="form-control" type="text" placeholder="Marca" required/>
 
               </div>
 
@@ -68,60 +87,93 @@
             <div class="row">
 
               <div class="col-4">
-                <label>Cor:</label>
-                <input name="qtd" id="cor" class="form-control" type="text" />
+                <label for="cor">Cor:</label>
+                <input id="cor" class="form-control" type="text" placeholder="Cor" required/>
 
               </div>
               <div class="col-4">
-                <label>Quilometragem:</label>
-                <input name="qtd" id="quilometragem" class="form-control" type="text" />
+                <label for="quilometragem">Quilometragem:</label>
+                <input id="quilometragem" class="form-control" type="text" placeholder="Quilometragem" required/>
 
               </div>
               <div class="col-4">
-                <label>Cilindrada:</label>
-                <input name="qtd" id="cilindrada" class="form-control" type="text" />
+                <label for="cilindrada">Cilindrada:</label>
+                <input id="cilindrada" class="form-control" type="text" placeholder="Cilindrada" required/>
 
               </div>
-
-
             </div>
           </div>
         </form>
 
         <div class="d-grid gap-2 d-md-flex justify-content-md-end">
-          <button class="btn btn-primary mt-3" onclick="addVeic()">
-            Adicionar
-          </button>
+          <div>
+            <button class="btn btn-success m-1" onclick="addVeic()">
+              Salvar
+            </button>
+          </div>
+  
+          <div>
+            <button class="btn btn-primary m-1" onclick="listar()">
+              Listar
+            </button>
+          </div>
         </div>
 
-        <div class="d-grid gap-2 d-md-flex justify-content-md-end">
-          <button class="btn btn-primary mt-3" onclick="listar()">
-            Listar
-          </button>
+        <hr>
+
+         <!-- -----------------------------------Tabela--------------------------------------------------------->
 
 
+        <table id="tableVeiculo" class="table table-hover text-center">
+          <thead class="thead-dark">
+            <tr>
+              <th class="tabela-topo">Placa</th>
+              <th class="tabela-topo">Ano</th>
+              <th class="tabela-topo">Marca</th>
+              <th class="tabela-topo">Cor</th>
+              <th class="tabela-topo">Quilometragem</th>
+              <th class="tabela-topo">Cilindrada</th>
+            </tr>
+          </thead>
+          <tbody class="veiculos list-veiculos">
+            <tr>
 
-          <!-- <a href="listarveiculos.html"><button class="btn btn-primary mt-3" onclick="listar()">Listar</button></a>-->
-        </div>
+            </tr>
+            <tr>
+              <td>ABC-1234</td>
+              <td>1947</td>
+              <td>Honda</td>
+              <td>Prata</td>
+              <td>1542</td>
+              <td>125</td>
+            </tr>
+            
+          </tbody>
+        </table>
+        
+        
       </div>
-      <hr />
     </div>
   </div>
 
-  </div>
+    
 
+ 
+  <!-- --------------------------------------------Div para mostra os dados------------------------------------------------>
+  <!--
+  
   <div>
-
     <div class="row">
       <div class="col-8 mx-auto">
-        <div class="veiculos list-group list-group-flush">
+        <div class="veiculos list-group">
           <h2>Veículos</h2>
         </div>
       </div>
     </div>
   </div>
+  -->
 
-  <script src="../assets/js/cadveic.js"></script>
+  <script src="./assets/js/cadveic.js"></script>
 
   <!-- Bootstrap JS -->
   <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
