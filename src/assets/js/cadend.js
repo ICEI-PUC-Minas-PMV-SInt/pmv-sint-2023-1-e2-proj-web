@@ -53,8 +53,10 @@ function addEnd() {
   function getItems() {
     // Pegando o array do localstorage
     const enderecos = JSON.parse(localStorage.getItem('end'));
+    
 
     // Para cada item do array, é renderizado no html
+    document.getElementById('tabela_clientes').innerHTML = ''; // para limpar o html
     enderecos.forEach(endereco => renderItem(endereco));
   }
 
