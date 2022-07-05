@@ -1,8 +1,5 @@
 # Registro de Testes de Software
 
-<span style="color:red">Pré-requisitos: <a href="7-Programação de Funcionalidades.md"> Programação de Funcionalidades</a></span>, <a href="10-Plano de Testes de Usabilidade.md"> Plano de Testes de Usabilidade</a>
+Documento - Registro dos Testes de Usabilidade
 
-Relatório com evidências dos testes e relatos dos usuários participantes, baseado em um plano de testes pré-definido.
-
-> **Links Úteis**:
-> - [Ferramentas deTestes de Usabilidade](https://www.usability.gov/how-to-and-tools/resources/templates.html)
+[Registro dos Testes de Usabilidade.pdf](https://github.com/ICEI-PUC-Minas-PMV-SInt/pmv-sint-2022-1-e1-proj-web-t1-grupo-01-1/files/9050141/Registro.dos.Testes.de.Usabilidade.pdf)
