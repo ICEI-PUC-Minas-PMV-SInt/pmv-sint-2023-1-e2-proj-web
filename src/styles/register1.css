@@ -2,21 +2,6 @@
 @import url('reset.css');
 @import url('logo.css');
 
-/* main {
-    min-height: 100vh;
-    width: 100%;
-    display: flex;
-    align-items: center;
-    flex-direction: column;
-} */
-/* 
-body {
-    display: block;
-    height: 100vh;
-    width: 100%;
-    background-color: red;
-} */
-
 #logo {
     display: block;
     margin: 40px auto 60px;
