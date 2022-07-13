@@ -15,62 +15,27 @@ h1 {
 }
 
 section {
-    width: 60vw;
+    width: 50vw;
     margin: auto;
 }
 
-form {
-    position: relative;
-}
-
-label {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    margin-bottom: 5px;
-    width: 550px;
-    background-color: #E4E4E4;
-    padding: 10px;
-    border: 1px solid black;
+.form-button {
     margin-bottom: 50px;
-}
-
-label img {
-    display: inline-block;
-    width: 60px;
-    height: 35px;
-    object-fit: contain;
-}
-
-.image-container {
-    display: flex;
-    margin-right: 50px;
-}
-
-input {
-    border: 0;
-    font-size: 16px;
-    outline: 0;
-    width: 450px;
+    padding: 10px;
+    border: 1px solid #000;
+    height: 70px;
+    width: 100%;
     background-color: #e4e4e4;
+    display: flex;
+    align-items: center;
 }
 
-input[type=radio] {
-    visibility: hidden;
+.form-button img {
+    width: 50px;
+    object-fit: cover;
+    margin-left: 20px;
 }
 
-a {
-    position: absolute;
-    right: 0;
-    padding: 10px 18px;
-    border-radius: 5px;
-    background-color: #3BB4F6;
-    color: #fff;
-    font-size: 18px;
-    text-decoration: none;
-}
-
-a:hover {
-    background-color: #36a0da;
-    cursor: pointer;
+.form-button p {
+    margin-left: 40px;
 }
