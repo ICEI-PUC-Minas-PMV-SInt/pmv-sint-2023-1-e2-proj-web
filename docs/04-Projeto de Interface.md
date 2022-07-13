@@ -9,7 +9,7 @@ Visão geral da interação do usuário pelas telas do sistema e protótipo inte
 
 ## User Flow
 
-<img src="https://user-images.githubusercontent.com/85751689/163391223-e707a8bd-c57a-4dfd-bacc-eaddd3199efc.jpg"></img><hr>
+<img src="https://user-images.githubusercontent.com/85751689/178784169-83185e5c-698e-40e1-baee-d68755fa782b.png"></img><hr>
 
 <img src="https://user-images.githubusercontent.com/85751689/163297668-38d2d5ee-fa94-41b1-881d-96adb59293ee.jpg" style="width: 100%;"></img><br>
 <strong>Interface 1.0:</strong> utilizada para fazer o login.<hr>
