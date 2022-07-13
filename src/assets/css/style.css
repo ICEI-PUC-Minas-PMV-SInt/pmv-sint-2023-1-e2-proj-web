@@ -1,3 +1,7 @@
+header {
+    padding: 5px;
+}
+
 .menu {
 	display: flex;
 	background-color: #21A0E6;
