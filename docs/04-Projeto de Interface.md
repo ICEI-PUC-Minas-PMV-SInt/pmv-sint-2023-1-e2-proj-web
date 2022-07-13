@@ -21,13 +21,10 @@ Visão geral da interação do usuário pelas telas do sistema e protótipo inte
 <strong>Interface 2.2:</strong> utilizada pelo usuário para registrar suas credenciais de acesso.<hr>
 
 <img src="https://user-images.githubusercontent.com/85751689/163297983-03b212a4-8799-43dc-807f-5d2c6e498d46.jpg" style="width: 100%;"></img><br>
-<strong>Interface 2.3.1 A:</strong> utilizada pelo usuário do tipo 'motorista' para registrar sua identificação.<hr>
+<strong>Interface 2.3 A:</strong> utilizada pelo usuário do tipo 'motorista' para registrar sua identificação.<hr>
 
 <img src="https://user-images.githubusercontent.com/85751689/163298054-81b509fe-120e-41be-98fd-92baa3e66648.jpg" style="width: 100%;"></img><br>
-<strong>Interface 2.3.1 B:</strong> utilizada pelo usuário do tipo 'oficina' para registrar sua identificação.<hr>
-
-<img src="https://user-images.githubusercontent.com/85751689/163298129-06c92134-dbf4-4f47-b5b8-9d6dc6f27d82.jpg" style="width: 100%;"></img><br>
-<strong>Interface 2.3.2 B:</strong> utilizada pelo usuário do tipo 'oficina' para registrar seu endereço.<hr>
+<strong>Interface 2.3 B:</strong> utilizada pelo usuário do tipo 'oficina' para registrar sua identificação.<hr>
 
 <img src="https://user-images.githubusercontent.com/85751689/163298245-f47517d0-f1c9-4d58-9863-f5d7311accf8.jpg" style="width: 100%;"></img><br>
 <strong>Interface 2.4 B:</strong> mostra uma mensagem avisando ao usuário que a conta foi criada com sucesso.<hr>
